@@ -8,6 +8,9 @@
     </tr>
 </table> 
 
+## Kelompok 3 - 4F Informatika
+1. Muhammad Fitra Fajar Rusamsi (2110631170027)
+2. Radi Alpiyanto (2110631170090)
 
 ## Requirements
 You need to have PHP version **8.0** or above. Node.js version **12.0** or above.
