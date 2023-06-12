@@ -1,4 +1,4 @@
-# Pemilihan Ketua Osis / MPK Full Stack Application
+# Website Laundry
 
 <table>
     <tr>
@@ -14,6 +14,7 @@ You need to have PHP version **8.0** or above. Node.js version **12.0** or above
 
 ## Demo
 https://fitrazar.my.id/laundry
+<br>
 Email : fitra@gmail.com
 Password : 123
 
